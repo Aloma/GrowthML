@@ -1,2 +1,2 @@
 # GrowthML
-The repository contains files for data analysis and manipulation to eventually apply machine learning methods that utilize historical data to boost sales of companies.
+The repository contains code for data analysis and manipulation and eventually apply machine learning methods that utilize product usage logs to obtain useful insights.
